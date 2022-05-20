@@ -250,7 +250,7 @@
   max-width: 364px
 }
 
-.link-item {
+.categories {
   display: flex;
   flex-wrap: wrap;
   line-height: 0.83%;
