@@ -928,7 +928,7 @@ input[type=radio] {
 }
 
 
-@media screen and (min-width: 641px) and (max-width: 1200px) {
+@media screen and (min-width: 640px) and (max-width: 1200px) {
 
   .header {
     background-image: url(../images/banner-bg-tablet.jpg);
