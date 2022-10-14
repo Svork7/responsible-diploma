@@ -772,6 +772,7 @@
   margin: auto;
   background-color: #ffffff;
   position: relative;
+  display: none;
 }
 
 .popup-heading {
